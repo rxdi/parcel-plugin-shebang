@@ -1,6 +1,6 @@
 {
   "name": "@rxdi/parcel-plugin-shebang",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "description": "Shebang for ParcelJS",
   "main": "./dist/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "dependencies": {
     "yn": "^3.1.0",
     "escape-string-regexp": "^2.0.0"
-  }, 
+  },
   "devDependencies": {
     "@types/node": "^12.0.10",
     "typescript": "^3.5.3"
